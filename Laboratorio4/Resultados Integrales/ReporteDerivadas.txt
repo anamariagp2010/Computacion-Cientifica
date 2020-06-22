@@ -1,0 +1,10 @@
+En esta sección se puso a prueba los métodos de integración basados en los métodos de uno, 
+dos y tres puntos, simples y compuestos.
+
+Se tomaron dos funciones "integ1" y "integ2", se hizo el cálculo analítico de estas integrales
+(adjunto) y se compara con los metodos mencionados anteriormente.
+
+Llegando a la conclusión de que la exactitud del método depende de la función que se desee integrar,
+pues en el caso de este laboratorio tanto "integ1" como "integ2" tendian a ser exponenciales, por
+lo que el método de simpson se adaptó mejor a ellas y generó mejores resultados tanto en cuadratura
+simple como compuesta.

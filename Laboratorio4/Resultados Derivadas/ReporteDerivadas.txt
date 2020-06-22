@@ -1,0 +1,9 @@
+En esta sección se puso a prueba los métodos de derivación basados en las fórmulas de
+diferencias hacia adelante, hacia atrás y centrada, donde las primeras dos tienen una
+precisión de orden 1 y la centrada tiene una pre´sición de orden 2.
+
+Se tomaron dos funciones "Der1" y "Der2", se hizo el cálculo analítico de estas derivadas
+(adjunto) y se compara con los metodos mencionados anteriormente.
+
+Llegando a la conclusión de que el método basado en la ´fórmula de diferencias centradas
+efectivamente supera a los demás métodos, teniendo resultados más cercanos a los reales.
